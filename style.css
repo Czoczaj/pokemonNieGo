@@ -1,0 +1,38 @@
+.pokedex{
+    width: 40%;
+    height: 80vh;
+    background-color: grey;
+    border: 5px solid orangered;
+}
+.frame{
+    margin: 6%;
+    height: 30%;
+    text-align: right;
+    border: solid 5px orangered;
+    background-color: rgb(161, 161, 161) ;
+    
+
+}
+.teksty{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 30px;
+    margin: 1%;
+}
+#teksty{
+    margin: 1%;
+    display: flex;
+    flex-direction: column;
+    float: right;
+    text-align: left;
+    width: 40%;
+    height: 90%;
+
+}
+.obrazek{
+    margin: 2%;
+    width: 40%;
+    height: 86%;
+    float: left;
+    background-repeat: no-repeat;
+    border: 2px solid orangered;
+}

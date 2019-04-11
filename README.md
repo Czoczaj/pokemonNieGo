@@ -1,1 +1,15 @@
 # pokemonNieGo
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#pozdrowienia z podlasia
